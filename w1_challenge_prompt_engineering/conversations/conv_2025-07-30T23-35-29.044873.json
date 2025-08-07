@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:35:29.044873",
+    "customer_id": "22766e0f-97da-4e13-9f1f-46ad350573d4",
+    "conversation_summary": "The customer inquired about product availability and shipping, reported an urgent missing laptop order, requested to purchase gaming headphones, needed help configuring a router, asked for a past purchase receipt, and sought warranty support for a malfunctioning tablet. The assistant provided detailed information, troubleshooting steps, and support options for each issue, including contact methods and next steps such as starting a warranty claim or resending a receipt. The conversation covered multiple topics, with the assistant offering clear guidance and options for further assistance throughout.",
+    "query_category": "warranty",
+    "customer_sentiment": "frustration",
+    "urgency_level": "medium",
+    "mentioned_products": [
+        "tablet"
+    ],
+    "extracted_information": {
+        "order_number": null,
+        "purchase_date": null,
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": false
+}

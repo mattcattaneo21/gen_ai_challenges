@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:34:59.247804",
+    "customer_id": "78849205-d935-4313-ba5d-a71f443bf601",
+    "conversation_summary": "The customer inquired about the availability of the new iPhone 15 and shipping costs to Chicago. The assistant confirmed the iPhone 15 is in stock and explained that shipping is free for orders over $500, which includes the iPhone 15. The assistant also offered to provide more details on models and help with the order if needed.",
+    "query_category": "sales",
+    "customer_sentiment": "neutral",
+    "urgency_level": "low",
+    "mentioned_products": [
+        "iPhone 15"
+    ],
+    "extracted_information": {
+        "order_number": null,
+        "purchase_date": null,
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": false
+}

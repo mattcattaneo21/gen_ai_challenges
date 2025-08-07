@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:35:17.479375",
+    "customer_id": "605a4d20-2967-4f49-80dc-9630e491aa6e",
+    "conversation_summary": "The customer inquired about iPhone 15 availability and shipping costs, reported an urgent issue with a missing laptop order, expressed satisfaction with a previous purchase and interest in gaming headphones, and requested help configuring a recently purchased router. The assistant confirmed product availability, provided shipping details, offered immediate support options for the urgent order, recommended gaming headphones, and gave troubleshooting steps for the router issue, along with options for further tech support. Next steps include the customer choosing whether to receive more detailed router setup help or schedule a call with a tech specialist.",
+    "query_category": "technical",
+    "customer_sentiment": "frustration",
+    "urgency_level": "medium",
+    "mentioned_products": [
+        "router"
+    ],
+    "extracted_information": {
+        "order_number": null,
+        "purchase_date": "last week",
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": false
+}

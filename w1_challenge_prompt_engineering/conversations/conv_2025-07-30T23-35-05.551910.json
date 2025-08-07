@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:35:05.551910",
+    "customer_id": "b11ca7c5-0873-4397-9b8a-cdb91152b3db",
+    "conversation_summary": "The customer initially inquired about the availability and shipping cost of the iPhone 15, then urgently reported that their laptop order (#TEC-2024-001) had not arrived and was needed for work the next day. The assistant confirmed the iPhone 15 was in stock with free shipping to Chicago, then promptly addressed the urgent delivery issue by advising the customer to check their order status and contact support immediately via phone, chat, or text for the fastest resolution. The assistant also offered to connect the customer with a support agent and requested any tracking details to help investigate further.",
+    "query_category": "sales",
+    "customer_sentiment": "frustration",
+    "urgency_level": "high",
+    "mentioned_products": [
+        "laptop"
+    ],
+    "extracted_information": {
+        "order_number": "TEC-2024-001",
+        "purchase_date": null,
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": true
+}

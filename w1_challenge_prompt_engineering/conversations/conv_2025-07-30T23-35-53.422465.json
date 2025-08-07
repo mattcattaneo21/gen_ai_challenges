@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:35:53.422465",
+    "customer_id": "8bac29ca-473f-419c-a251-10d269ea2a56",
+    "conversation_summary": "The customer inquired about product availability, shipping, and made several support requests, including an urgent missing laptop order, router setup issues, and a warranty claim for a tablet. The assistant provided detailed guidance for each issue, including troubleshooting steps, return/refund instructions, and how to access receipts, as well as product recommendations and information on services like installation and financing. Next steps included contacting support via phone, chat, or text for urgent matters, and the assistant offered to connect the customer with specialists or provide further assistance as needed.",
+    "query_category": "sales",
+    "customer_sentiment": "neutral",
+    "urgency_level": "low",
+    "mentioned_products": [
+        "MacBook Pro"
+    ],
+    "extracted_information": {
+        "order_number": null,
+        "purchase_date": null,
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": false
+}

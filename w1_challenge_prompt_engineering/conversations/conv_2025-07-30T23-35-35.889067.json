@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:35:35.889067",
+    "customer_id": "52ec7f60-fe78-44c5-894d-79c19a266015",
+    "conversation_summary": "The customer inquired about product availability, shipping costs, and made several support requests, including a missing laptop order, configuring a router, and obtaining a purchase receipt. The assistant provided detailed guidance for each issue, including urgent contact options for the missing order, troubleshooting steps for the router, and instructions for retrieving a receipt and using the warranty for a faulty tablet. The assistant also offered product recommendations and ongoing support, inviting the customer to specify preferences or request further help as needed.",
+    "query_category": "sales",
+    "customer_sentiment": "neutral",
+    "urgency_level": "low",
+    "mentioned_products": [
+        "laptop"
+    ],
+    "extracted_information": {
+        "order_number": null,
+        "purchase_date": null,
+        "amount": 800
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": false
+}

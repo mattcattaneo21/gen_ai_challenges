@@ -1,0 +1,1 @@
+## This repository contains a series of challenges resolutions for the GenAI program by Pluralit.

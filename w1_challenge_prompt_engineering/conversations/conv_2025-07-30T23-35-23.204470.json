@@ -1,0 +1,17 @@
+{
+    "timestamp": "2025-07-30T23:35:23.204470",
+    "customer_id": "6dc68fdd-d94c-4642-8a14-92844fc38ddf",
+    "conversation_summary": "The customer inquired about product availability and shipping costs, reported an urgent delivery issue with a laptop order, expressed interest in purchasing gaming headphones, requested help configuring a recently purchased router, and asked for a receipt for a past order. The assistant provided detailed information, troubleshooting steps, and support options for each issue, including escalation paths for urgent matters and instructions for obtaining a receipt. Next steps include the customer confirming their email for the receipt and choosing preferred support channels for technical or urgent assistance.",
+    "query_category": "billing",
+    "customer_sentiment": "urgency",
+    "urgency_level": "medium",
+    "mentioned_products": [],
+    "extracted_information": {
+        "order_number": "TEC-2023-089",
+        "purchase_date": "2023-12-15",
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": false
+}

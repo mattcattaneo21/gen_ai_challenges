@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:35:42.709512",
+    "customer_id": "d71f4f4a-a913-4378-8b02-97666fbce34c",
+    "conversation_summary": "The customer contacted TechStore Plus with various inquiries, including product availability, urgent order and return issues, technical support needs, and warranty claims. The assistant provided prompt information on stock and shipping, guided the customer through urgent order tracking and return processes, offered product recommendations, and explained how to access tech support and warranty services. Next steps included connecting the customer with support agents for urgent matters, sending receipts, and assisting with warranty claims or product returns as needed.",
+    "query_category": "returns",
+    "customer_sentiment": "frustration",
+    "urgency_level": "high",
+    "mentioned_products": [
+        "phone"
+    ],
+    "extracted_information": {
+        "order_number": null,
+        "purchase_date": "yesterday",
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": true
+}

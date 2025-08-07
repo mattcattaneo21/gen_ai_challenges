@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:35:11.013467",
+    "customer_id": "0f3f4322-c646-4f13-8e8e-6248695a58b2",
+    "conversation_summary": "The customer first inquired about the availability and shipping cost of the iPhone 15, and was informed that it is in stock with free shipping to Chicago for orders over $500. They then reported an urgent issue with a missing laptop order needed for work, and the assistant provided immediate support options and recommended contacting TechStore Plus directly for fastest resolution. Finally, the customer expressed satisfaction with previous service and requested information on gaming headphones, to which the assistant provided several product recommendations and offered further assistance.",
+    "query_category": "sales",
+    "customer_sentiment": "satisfaction",
+    "urgency_level": "low",
+    "mentioned_products": [
+        "gaming headphones"
+    ],
+    "extracted_information": {
+        "order_number": null,
+        "purchase_date": null,
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": false
+}

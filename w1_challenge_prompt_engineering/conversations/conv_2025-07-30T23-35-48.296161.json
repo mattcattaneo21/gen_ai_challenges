@@ -1,0 +1,19 @@
+{
+    "timestamp": "2025-07-30T23:35:48.296161",
+    "customer_id": "98797303-b062-4456-a4eb-235d455a4951",
+    "conversation_summary": "The customer contacted TechStore Plus support with a variety of requests, including product availability, urgent order and return issues, technical support, warranty claims, and service inquiries. The assistant provided clear instructions and support options for each issue, such as checking order status, initiating returns, troubleshooting devices, and scheduling installations. Next steps included connecting the customer with support agents, providing detailed guidance, and offering to start processes like warranty claims or service scheduling as needed.",
+    "query_category": "installation",
+    "customer_sentiment": "neutral",
+    "urgency_level": "medium",
+    "mentioned_products": [
+        "home theater"
+    ],
+    "extracted_information": {
+        "order_number": null,
+        "purchase_date": null,
+        "amount": null
+    },
+    "resolution_status": "pending",
+    "actions_taken": [],
+    "follow_up_required": false
+}
