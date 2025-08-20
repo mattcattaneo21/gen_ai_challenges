@@ -4,4 +4,4 @@ This project develops an **Advanced Customer Service Agent** for **TechStore Plu
 
 The core focus is to an application by leveraging **LangChain Expression Language (LCEL)** for chaining components, **Pydantic** for structured data handling, and **LangSmith** for tracing and debugging. 
 
-The system processes user queries through multiple stages, including query analysis and classification,*dynamic response generation, and conversation summarization and persistence.
+The system processes user queries through multiple stages, including query analysis and classification, dynamic response generation, and conversation summarization and persistence.
